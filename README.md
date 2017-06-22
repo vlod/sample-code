@@ -9,4 +9,7 @@ Some sample code for interviewers
 
 - [firstLetter.js](./firstLetter.js) String containing first letter of every word in a given string with spaces
 
+
 - [uncommonChars.js](./uncommonChars.js) Find uncommon characters of the two strings
+
+- [runLenEncoding.js](./runLenEncoding.js) Run length encoding of a string
