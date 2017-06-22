@@ -6,3 +6,4 @@ Some sample code for interviewers
 - [reverseString.js](./reverseString.js) Reverse a string without using any built in functions
 
 - [fizzBuzz.js](./fizzBuzz.js) CodingHorror infamous FizzBuzz question
+- [firstLetter.js](./firstLetter.js) String containing first letter of every word in a given string with spaces
