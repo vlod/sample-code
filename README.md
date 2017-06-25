@@ -16,5 +16,5 @@ Some sample code for interviewers
 
 - [hnFirebase](./hnFirebase/) Pull top stories from hackernews using the Firebase API using async/await
 
-- [bbcPageScrapper](./bbcPageScrapper/) pull down html page and parse body of article with cheerio.js
+- [bbcPageScrapper](./bbcPageScrapper/) Pull down html page and parse body of article with cheerio.js
 
