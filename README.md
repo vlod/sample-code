@@ -13,3 +13,5 @@ Some sample code for interviewers
 - [uncommonChars.js](./uncommonChars.js) Find uncommon characters of the two strings
 
 - [runLenEncoding.js](./runLenEncoding.js) Run length encoding of a string
+
+- [hnFirebase](./hnFirebase/README.md) Pull top stories from hackernews using the Firebase API
