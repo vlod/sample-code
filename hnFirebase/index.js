@@ -49,7 +49,7 @@ async function getItems(items) {
 firebase.app().database().ref("v0/topstories").once('value')
   .then(snapshot => getItems(snapshot.val()))
   .then((results) => {
-    console.log('results: ', results);
+    console.log(JSON.stringify(results, null, 2));
 
     // disconnect from firebase, otherwise it waits for new records
     firebase.database().goOffline();
