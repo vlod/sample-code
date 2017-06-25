@@ -14,4 +14,4 @@ Some sample code for interviewers
 
 - [runLenEncoding.js](./runLenEncoding.js) Run length encoding of a string
 
-- [hnFirebase](./hnFirebase/README.md) Pull top stories from hackernews using the Firebase API
+- [hnFirebase](./hnFirebase/) Pull top stories from hackernews using the Firebase API
