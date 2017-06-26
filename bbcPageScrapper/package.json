@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "NODE_ENV=test mocha --reporter list --recursive --watch test"
   },
   "keywords": [],
   "author": "",
@@ -14,5 +14,10 @@
     "cheerio": "^1.0.0-rc.1",
     "request": "^2.81.0",
     "request-promise-native": "^1.0.4"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "nock": "^9.0.13"
   }
 }
