@@ -47,7 +47,7 @@ function getItem(item) {
  * @param {Array} items
  *
  */
-async function getItems(items) {
+function getItems(items) {
   const results = [];
 
   for (const item of items) {
