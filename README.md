@@ -14,7 +14,7 @@ Some sample code for interviewers
 
 - [runLenEncoding.js](./runLenEncoding.js) Run length encoding of a string
 
-- [hnFirebase](./hnFirebase/) Pull top stories from hackernews using the Firebase API using async/await
+- [hnFirebase](./hnFirebase/) Pull top stories from hackernews using the Firebase API and limit the number of concurrent requests.
 
 - [bbcPageScrapper](./bbcPageScrapper/) Pull down html page and parse body of article with cheerio.js. Test with mocha/chai. Http mocking with nock.js
 
