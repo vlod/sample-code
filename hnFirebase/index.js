@@ -71,7 +71,7 @@ function getItems(items) {
   // this fires when all promises in the queue have been resolved
   return Promise.all(promiseArr)
     .then(function() {
-      console.log('don! queue empty!');
+      console.log('done! queue empty!');
       return results;
     });
 }
