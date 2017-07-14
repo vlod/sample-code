@@ -18,4 +18,4 @@ Some sample code for interviewers
 
 - [bbcPageScrapper](./bbcPageScrapper/) Pull down html page and parse body of article with cheerio.js. Test with mocha/chai. Http mocking with nock.js
 
-- [sample-react-redux-rest](https://github.com/vlod/sample-react-redux-rest) A sample test project that connects React, Redux, ImmutableJS to a REST API (ExpressJS) backend. Data storage is mocked out (with a basic json file).
+- [sample-react-redux-rest](https://github.com/vlod/sample-react-redux-rest) A sample test project that connects React, Redux, ImmutableJS to a REST API (ExpressJS) backend. Data storage is mocked out (with a basic json file). Still work in progress.
